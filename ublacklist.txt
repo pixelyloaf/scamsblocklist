@@ -1,1 +1,8 @@
 *://*.steamcomunnutly.com/*
+*://*.youtueb.com/*
+*://*.richvideos.com/*
+*://*.diiscord.com/*
+*://*.dicord.com/*
+*://*.help.com/*
+*://*.ww25.help.com/*
+*://*.spicetify.com/*
