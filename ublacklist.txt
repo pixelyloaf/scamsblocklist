@@ -38,3 +38,4 @@
 *://*.ww1.youbute.com/*
 *://*.blx.gg/*
 *://*.sweetrbx.com/*
+*://*.planetrbx.com/*
