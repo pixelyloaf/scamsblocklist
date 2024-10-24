@@ -11,3 +11,7 @@
 *://*.bcgame.top/*
 *://*.youteube.com/*
 *://*.blobberifstillhouse.xyz/*
+*://*.spicetify.net/*
+*://*.ww17.spicetify.net/*
+*://*.bomb.zip/*
+# the one above is kind of obvious because it tells you but i'm running out of stuff so i'm putting it here (this will look funny once i get more below this)
