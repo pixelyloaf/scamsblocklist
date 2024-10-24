@@ -45,5 +45,3 @@
 *://*.freeward.net/*
 *://*.claimrbx.gg/*
 *://*.www.uinl.org/*
-https://www.uinl.org/html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?id=rob24&Connector=https://malfirob.xyz/rob/video/free-robux_cmlkk6a9.html?soj
-# this site won't get blocked on here for some reason
