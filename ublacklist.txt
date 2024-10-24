@@ -50,3 +50,7 @@
 *://*.rbxstacks.com/*
 *://*.roblominer.com/*
 *://*.bloxflip.com/*
+*://*.rbx.best/*
+*://*.rocash.com/*
+*://*.rbxrise.com/*
+*://*.bloxawards.com/*
