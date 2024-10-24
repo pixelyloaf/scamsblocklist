@@ -1,4 +1,8 @@
-||steamcomunnutly.com^
+1. click ublock and enter the dashboard
+2. go to filter lists
+3. click import and paste this into the url box https://raw.githubusercontent.com/pixelyloaf/scamsblocklist/refs/heads/main/ublock.txt
+
+   this might not work i haven't tested it yet i should though||steamcomunnutly.com^
 ||youtueb.com^
 ||richvideos.com^
 ||diiscord.com^
@@ -34,3 +38,5 @@
 ||hypixle.com^
 ||ww1.hypixle.com^
 ||fightsplatform.com^
+||youbute.com^
+||ww1.youbute.com^
