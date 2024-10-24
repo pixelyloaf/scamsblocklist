@@ -8,3 +8,4 @@
 ||spicetify.com^
 ||disscord.com^
 ||cardnt.com^
+||bcgame.top^
