@@ -27,3 +27,5 @@
 *://*.spotfiy.com/*
 *://*.ww1.spotfiy.com/*
 *://*.youetube.com/*
+*://*.erddit.com/*
+*://*.ww1.erddit.com/*
