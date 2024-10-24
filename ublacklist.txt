@@ -36,3 +36,4 @@
 *://*.fightsplatform.com/*
 *://*.youbute.com/*
 *://*.ww1.youbute.com/*
+*://*.blx.gg/*
