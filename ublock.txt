@@ -29,3 +29,4 @@
 ||youetube.com^
 ||erddit.com^
 ||ww1.erddit.com^
+||cahtgpt.com^
