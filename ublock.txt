@@ -7,3 +7,4 @@
 ||ww25.help.com^
 ||spicetify.com^
 ||disscord.com^
+||cardnt.com^
