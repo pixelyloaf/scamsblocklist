@@ -39,10 +39,10 @@
 *://*.blx.gg/*
 *://*.sweetrbx.com/*
 *://*.planetrbx.com/*
-*://*.earnrobux.net/*
 *://www.earnrobux.net/*
 *://*.campanapaternidad.org/*
 *://*.s3.amazonaws.com/*
 *://*.freeward.net/*
 *://*.claimrbx.gg/*
 *://*.www.uinl.org/*
+*://*.149.56.45.164/*
