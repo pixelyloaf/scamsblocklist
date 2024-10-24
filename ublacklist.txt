@@ -34,3 +34,5 @@
 *://*.hypixle.com/*
 *://*.ww1.hypixle.com/*
 *://*.fightsplatform.com/*
+*://*.youbute.com/*
+*://*.ww1.youbute.com/*
