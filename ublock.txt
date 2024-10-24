@@ -31,3 +31,6 @@
 ||ww1.erddit.com^
 ||cahtgpt.com^
 ||roblxo.com^
+||hypixle.com^
+||ww1.hypixle.com^
+||fightsplatform.com^
