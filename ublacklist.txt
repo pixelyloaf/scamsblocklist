@@ -9,3 +9,5 @@
 *://*.disscord.com/*
 *://*.cardnt.com/*
 *://*.bcgame.top/*
+*://*.youteube.com/*
+*://*.blobberifstillhouse.xyz/*
