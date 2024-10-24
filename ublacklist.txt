@@ -39,7 +39,7 @@
 *://*.blx.gg/*
 *://*.sweetrbx.com/*
 *://*.planetrbx.com/*
-*://*.earnrobux.com/*
+*://*.www.earnrobux.com/*
 *://*.campanapaternidad.org/*
 *://*.s3.amazonaws.com/*
 *://*.freeward.net/*
