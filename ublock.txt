@@ -5,4 +5,5 @@
 ||dicord.com^
 ||help.com^
 ||ww25.help.com^
-||spicetify.com
+||spicetify.com^
+||disscord.com^
