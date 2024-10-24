@@ -48,5 +48,5 @@
 *://*.149.56.45.164/*
 *://*.bento.me/*
 *://*.rbxstacks.com/*
-*://roblominer.com/*
+://roblominer.com/
 *://*.bloxflip.com/*
