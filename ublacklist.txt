@@ -44,4 +44,4 @@
 *://*.s3.amazonaws.com/*
 *://*.freeward.net/*
 *://*.claimrbx.gg/*
-*://*.uinl.org/*
+*://*www.uinl.org/*
