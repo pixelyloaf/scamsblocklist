@@ -6,3 +6,4 @@
 *://*.help.com/*
 *://*.ww25.help.com/*
 *://*.spicetify.com/*
+*://*.disscord.com/*
