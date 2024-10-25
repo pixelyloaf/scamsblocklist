@@ -58,3 +58,5 @@
 *://*.appel.com/*
 *://*.ww1.appel.com/*
 *://*.aplpe.com/*
+*://*.ous.com/*
+*://*.ww6.ous.com/*
