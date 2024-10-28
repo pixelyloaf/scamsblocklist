@@ -60,3 +60,5 @@
 ||aplpe.com^
 ||ous.com^
 ||www6.ous.com^
+||roblox.com.zm^
+! watch this block the whole page
