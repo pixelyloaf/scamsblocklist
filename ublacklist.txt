@@ -67,3 +67,5 @@
 *://*.pilosaleltd.com/*
 *://*.tiffanycoshop.com/*
 *://*.ww1.tiffanycoshop.com/*
+*://*.gituhh.com/*
+*://*.ww17.gituhb.com/*
