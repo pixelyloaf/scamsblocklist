@@ -62,3 +62,4 @@
 *://*.ww6.ous.com/*
 *://*.roblox.com.zm/*
 # watch this block the whole roblox page
+*://*.linktr.ee/goodnine/*
