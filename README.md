@@ -19,8 +19,12 @@ if you are using ublacklist you can click [this](https://iorate.github.io/ublack
 automatic setup for ublock works now, click [here](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fpixelyloaf%2Fscamsblocklist%2Fmaster%2Fublock.txt&title=Scams%20Blocklist) or right click [this](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fpixelyloaf%2Fscamsblocklist%2Fmaster%2Fublock.txt&title=Scams%20Blocklist) and add it to your filter list (you can right click the here one aswell i just added the right click version because i felt like it)
 
 
-adguard link will appear soon but for the steps use these ones i found off an ai blocklist repository
+~~adguard link will appear soon but for the steps use these ones i found off an ai blocklist repository~~
 
+it's here https://raw.githubusercontent.com/pixelyloaf/scamsblocklist/main/adguard.txt
+
+can't really use this because i don't use windows
+ 
 For Adguard:
 Open Adguard Home Dashboard
 Go to filters --> DNS blocklists.
