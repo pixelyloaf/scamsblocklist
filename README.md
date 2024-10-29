@@ -19,3 +19,12 @@ if you are using ublacklist you can click [this](https://iorate.github.io/ublack
 automatic setup for ublock works now, click [here](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fpixelyloaf%2Fscamsblocklist%2Fmaster%2Fublock.txt&title=Scams%20Blocklist) or right click [this](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fpixelyloaf%2Fscamsblocklist%2Fmaster%2Fublock.txt&title=Scams%20Blocklist) and add it to your filter list (you can right click the here one aswell i just added the right click version because i felt like it)
 
 
+adguard link will appear soon but for the steps use these ones i found off an ai blocklist repository
+
+For Adguard:
+Open Adguard Home Dashboard
+Go to filters --> DNS blocklists.
+Click Add blocklist, then Add a custom list.
+Enter the name of the list (eg. AI blocklist) into the first dialogue box.
+Copy and paste the url into the second dialogue box.
+Hit save, and the list is added!
