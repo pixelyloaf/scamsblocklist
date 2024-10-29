@@ -62,4 +62,5 @@
 ||www6.ous.com^
 ||roblox.com.zm^
 ! watch this block the whole page
-||linktr.ee/goodnine
+||linktr.ee^
+! couldn't get the slash version to work so this was the best i could do, might of accidently messed up legit websites
