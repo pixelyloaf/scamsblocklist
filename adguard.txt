@@ -67,3 +67,5 @@
 0.0.0.0 pilosaleltd.com
 0.0.0.0 tiffanycoshop.com
 0.0.0.0 ww1.tiffanycoshop.com
+0.0.0.0 gituhb.com
+0.0.0.0 ww.17.gituhb.com
