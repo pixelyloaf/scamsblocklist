@@ -68,4 +68,6 @@
 0.0.0.0 tiffanycoshop.com
 0.0.0.0 ww1.tiffanycoshop.com
 0.0.0.0 gituhb.com
-0.0.0.0 ww.17.gituhb.com
+0.0.0.0 ww17.gituhb.com
+0.0.0.0 youtubee.com
+0.0.0.0 ww12.youtubee.com
