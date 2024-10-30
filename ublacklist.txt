@@ -69,3 +69,5 @@
 *://*.ww1.tiffanycoshop.com/*
 *://*.gituhh.com/*
 *://*.ww17.gituhb.com/*
+*://*.youtubee.com/*
+*://*.ww12.youtubee.com/*
