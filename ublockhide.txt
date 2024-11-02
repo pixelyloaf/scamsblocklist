@@ -1,3 +1,4 @@
+! it's unknown if these actually work, however they should hide stuff
 google.com,duckduckgo.com,bing.com##a[href*="steamcomunnutly.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="youtueb.com"]:upward(div:style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="richvideos.com"]:upward(div:style(opacity:0.00!important;)
@@ -16,10 +17,10 @@ google.com,duckduckgo.com,bing.com##a[href*="ww17.spicetify.net"]:upward(div:sty
 google.com,duckduckgo.com,bing.com##a[href*="bomb.zip"]:upward(div:style(opacity:0.00!important;)
 ! the one above is kind of obvious because it tells you but i'm running out of stuff so i'm putting it here (this will look funny once i get more below this)
 google.com,duckduckgo.com,bing.com##a[href*="githbu.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="robolx.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ww16.robolx.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="roblxo.com"]:upward(div:style(opacity:0.00!important;)
 ! note that everything below is not done yet, i'm stopping here to take a break for real this time and commiting this just in case there's issues and to get this out there
-robolx.com
-ww16.roblox.com
-roblxo.com
 orblox.com
 ww1.orblox.com
 steamcommuntiy.com
