@@ -12,11 +12,11 @@ google.com,duckduckgo.com,bing.com##a[href*="bcgame.top"]:upward(div:style(opaci
 google.com,duckduckgo.com,bing.com##a[href*="youteube.com"]:upward(div:style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="blobberifstillhouse.xyz"]:upward(div:style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="spicetify.net"]:upward(div:style(opacity:0.00!important;)
-! note that everything below is not done yet, i'm stopping here to take a break and commiting this just in case there's issues
-ww17.spicetify.net
-bomb.zip
+google.com,duckduckgo.com,bing.com##a[href*="ww17.spicetify.net"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="bomb.zip"]:upward(div:style(opacity:0.00!important;)
 ! the one above is kind of obvious because it tells you but i'm running out of stuff so i'm putting it here (this will look funny once i get more below this)
-githbu.com
+google.com,duckduckgo.com,bing.com##a[href*="githbu.com"]:upward(div:style(opacity:0.00!important;)
+! note that everything below is not done yet, i'm stopping here to take a break for real this time and commiting this just in case there's issues and to get this out there
 robolx.com
 ww16.roblox.com
 roblxo.com
