@@ -71,3 +71,4 @@
 0.0.0.0 ww17.gituhb.com
 0.0.0.0 youtubee.com
 0.0.0.0 ww12.youtubee.com
+0.0.0.0 snoy.com
