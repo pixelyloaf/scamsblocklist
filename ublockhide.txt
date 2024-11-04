@@ -20,17 +20,17 @@ google.com,duckduckgo.com,bing.com##a[href*="githbu.com"]:upward(div:style(opaci
 google.com,duckduckgo.com,bing.com##a[href*="robolx.com"]:upward(div:style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ww16.robolx.com"]:upward(div:style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="roblxo.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="orblox.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ww1.orblox.com"]:upward(div:style(opacity:0.00!important;)
+google.com.duckduckgo.com,bing.com##a[href*="steamcommuntiy.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ww1.steamcommuntiy.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="store.staempowered.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="spotfiy.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ww1.spotfiy.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="youetube.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="erddit.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ww1.erddit.com"]:upward(div:style(opacity:0.00!important;)
 ! note that everything below is not done yet, i'm stopping here to take a break for real this time and commiting this just in case there's issues and to get this out there
-orblox.com
-ww1.orblox.com
-steamcommuntiy.com
-ww1.steamcommuntiy.com
-store.staempowered.com
-spotfiy.com
-ww1.spotfiy.com
-youetube.com
-erddit.com
-ww1.erddit.com
 cahtgpt.com
 roblxo.com
 hypixle.com
