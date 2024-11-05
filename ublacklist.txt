@@ -72,3 +72,4 @@
 *://*.youtubee.com/*
 *://*.ww12.youtubee.com/*
 *://*.snoy.com/*
+*://*.youteb.com/*
