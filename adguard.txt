@@ -73,3 +73,5 @@
 0.0.0.0 ww12.youtubee.com
 0.0.0.0 snoy.com
 0.0.0.0 youteb.com
+0.0.0.0 tlauncher.org
+0.0.0.0 5dollartraffic.club
