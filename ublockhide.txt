@@ -30,16 +30,16 @@ google.com,duckduckgo.com,bing.com##a[href*="ww1.spotfiy.com"]:upward(div:style(
 google.com,duckduckgo.com,bing.com##a[href*="youetube.com"]:upward(div:style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="erddit.com"]:upward(div:style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="ww1.erddit.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="cahtgpt.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="roblxo.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="hypixle.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ww1.hypixle.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="fightsplatform.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="youbute.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ww1.youbute.com"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="blx.gg"]:upward(div:style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="sweetrbx.com"]:upward(div:style(opacity:0.00!important;)
 ! note that everything below is not done yet, i'm stopping here to take a break for real this time and commiting this just in case there's issues and to get this out there
-cahtgpt.com
-roblxo.com
-hypixle.com
-ww1.hypixle.com
-fightsplatform.com
-youbute.com
-ww1.youbute.com
-blx.gg
-sweetrbx.com
 planetrbx.com
 earnrobux.com
 campanapaternidad.org
