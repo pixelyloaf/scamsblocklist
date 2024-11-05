@@ -39,7 +39,7 @@ google.com,duckduckgo.com,bing.com##a[href*="ww1.youbute.com"]:upward(div):style
 google.com,duckduckgo.com,bing.com##a[href*="blx.gg"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="sweetrbx.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="planetrbx.com"]:upward(div):style(opacity:0.00!important;)
-! note that everything below was done by an ai, i'm not sure if it works but i couldn't take the time to do it
+! note that everything above and below until the stop mark was done by an ai, i'm not sure if it works but i couldn't take the time to do it
 google.com,duckduckgo.com,bing.com##a[href*="earnrobux.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="campanapaternidad.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="s3.amazonaws.com"]:upward(div):style(opacity:0.00!important;)
@@ -75,3 +75,5 @@ google.com,duckduckgo.com,bing.com##a[href*="ww12.youtubee.com"]:upward(div):sty
 google.com,duckduckgo.com,bing.com##a[href*="snoy.com"]:upward(div):style(opacity:0.00!important;)
 ! ai stuff ends here
 google.com,duckduckgo.com,bing.com##a[href*="youteb.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="tlauncher.org"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="5dollartraffic.club"]:upward(div):style(opacity:0.00!important;)
