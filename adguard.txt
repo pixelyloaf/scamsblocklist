@@ -72,3 +72,4 @@
 0.0.0.0 youtubee.com
 0.0.0.0 ww12.youtubee.com
 0.0.0.0 snoy.com
+0.0.0.0 youteb.com
