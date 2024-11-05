@@ -77,3 +77,6 @@ google.com,duckduckgo.com,bing.com##a[href*="snoy.com"]:upward(div):style(opacit
 google.com,duckduckgo.com,bing.com##a[href*="youteb.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="tlauncher.org"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com##a[href*="5dollartraffic.club"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="optfine.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="youteb.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com##a[href*="ww1.youteb.com"]:upward(div):style(opacity:0.00!important;)
