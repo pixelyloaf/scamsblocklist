@@ -26,6 +26,8 @@ automatic setup for ublock works now, click [here](https://subscribe.adblockplus
 it's here https://raw.githubusercontent.com/pixelyloaf/scamsblocklist/main/adguard.txt
 
 can't really use this because i don't use windows
+
+the steps
  
 For Adguard:
 Open Adguard Home Dashboard
