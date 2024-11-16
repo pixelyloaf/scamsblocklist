@@ -1,3 +1,5 @@
+# development is slowing down
+
 # scamsblocklist
 
 this just blocks scams i update this everytime i find one
