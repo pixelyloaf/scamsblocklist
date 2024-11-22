@@ -77,3 +77,5 @@
 0.0.0.0 5dollartraffic.club
 0.0.0.0 discord-registation.ru
 0.0.0.0 rbolox.com
+0.0.0.0 gtty.com
+0.0.0.0 www6.gtty.com

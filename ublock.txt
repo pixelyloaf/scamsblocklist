@@ -79,4 +79,6 @@
 ||youteb.com^
 ||ww1.youteb.com^
 ||discord-registation.ru^
-||rbolox.com
+||rbolox.com^
+||gtty.com^
+||www6.gtty.com^
