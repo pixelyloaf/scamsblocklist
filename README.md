@@ -1,4 +1,4 @@
-# development is slowing down
+# development is starting to pick up again
 
 # scamsblocklist
 

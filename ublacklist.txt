@@ -85,3 +85,5 @@
 *://*.farty.com/*
 # don't ask why i searched this i have no idea
 *://*.ww7.farty.com/*
+*://*.list.com/*
+*://*.www6.list.com/*

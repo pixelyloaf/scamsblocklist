@@ -82,3 +82,5 @@
 0.0.0.0 farty.com
 # [don't ask why i searched this i have no idea]
 0.0.0.0 ww7.farty.com
+0.0.0.0 list.com
+0.0.0.0 www6.list.com

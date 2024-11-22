@@ -87,3 +87,5 @@ google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="gtty.com"]:upward(
 google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="farty.com"]:upward(div):style(opacity:0.00!important;)
 ! don't ask why i searched this i have no idea
 google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="ww7.farty.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="list.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="www6.list.com"]:upward(div):style(opacity:0.00!important;)
