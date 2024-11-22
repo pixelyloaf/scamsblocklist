@@ -1,4 +1,4 @@
-0.0.0.0steamcomunnutly.com
+0.0.0.0 steamcomunnutly.com
 0.0.0.0 youtueb.com
 0.0.0.0 richvideos.com
 0.0.0.0 diiscord.com
@@ -75,3 +75,5 @@
 0.0.0.0 youteb.com
 0.0.0.0 tlauncher.org
 0.0.0.0 5dollartraffic.club
+0.0.0.0 discord-registation.ru
+0.0.0.0 rbolox.com
