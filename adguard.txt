@@ -79,3 +79,6 @@
 0.0.0.0 rbolox.com
 0.0.0.0 gtty.com
 0.0.0.0 www6.gtty.com
+0.0.0.0 farty.com
+# [don't ask why i searched this i have no idea]
+0.0.0.0 ww7.farty.com
