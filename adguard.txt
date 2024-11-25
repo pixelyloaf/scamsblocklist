@@ -87,3 +87,11 @@
 0.0.0.0 miencraft.net
 0.0.0.0 ww31.miencraft.net
 0.0.0.0 freshydog.pages.dev
+0.0.0.0 minecarft.net
+0.0.0.0 ww1.minecarft.net
+0.0.0.0 minecarft.com
+0.0.0.0 www1.minecarft.com
+0.0.0.0 modrnith.com
+0.0.0.0 ww25.modrnith.com
+0.0.0.0 steampowerde.com
+0.0.0.0 ww1.steampowerde.com

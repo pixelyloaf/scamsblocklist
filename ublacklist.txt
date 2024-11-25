@@ -90,3 +90,11 @@
 *://*.miencraft.net/*
 *://*.ww31.miencraft.net/*
 *://*.freshydog.pages.dev/*
+*://*.minecarft.net/*
+*://*.ww1.minecarft.net/*
+*://*.minecarft.com/*
+*://*.www1.minecarft.com/*
+*://*.modrnith.com/*
+*://*.ww25.modrnith.com/*
+*://*.steampowerde.com/*
+*://*.ww1.steampowerde.com/*
