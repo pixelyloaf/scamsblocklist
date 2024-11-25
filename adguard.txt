@@ -84,3 +84,6 @@
 0.0.0.0 ww7.farty.com
 0.0.0.0 list.com
 0.0.0.0 www6.list.com
+0.0.0.0 miencraft.net
+0.0.0.0 ww31.miencraft.net
+0.0.0.0 freshydog.pages.dev

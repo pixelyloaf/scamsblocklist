@@ -87,3 +87,6 @@
 *://*.ww7.farty.com/*
 *://*.list.com/*
 *://*.www6.list.com/*
+*://*.miencraft.net/*
+*://*.ww31.miencraft.net/*
+*://*.freshydog.pages.dev/*

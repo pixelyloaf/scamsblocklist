@@ -89,3 +89,6 @@ google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="farty.com"]:upward
 google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="ww7.farty.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="list.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="www6.list.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="miencraft.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="ww31.miencraft.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="freshydog.pages.dev"]:upward(div):style(opacity:0.00!important;)
