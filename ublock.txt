@@ -98,3 +98,5 @@
 ||ww25.modrnith.com^
 ||steampowerde.com^
 ||ww1.steampowerde.com^
+||oyutbe.com^
+||ww1.oyutbe.com^

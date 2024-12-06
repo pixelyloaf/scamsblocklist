@@ -100,3 +100,5 @@ google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="modrnith.com"]:upw
 google.com,duckduckgo.com,bing.com,search.brave.dom##a[href*="ww25.modrnith.com"];upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing,com,search.brave.com##a[href*="steampowerde.com"]:upward(div):style(opacity:0.00!important;)
 google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="ww1.steampowerde.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="oyutbe.com"]:upward(div):style(opacity:0.00!important;)
+google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="ww1.oyutbe.com"]:upward(div):style(opacity:0.00!important;)

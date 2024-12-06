@@ -95,3 +95,5 @@
 0.0.0.0 ww25.modrnith.com
 0.0.0.0 steampowerde.com
 0.0.0.0 ww1.steampowerde.com
+0.0.0.0 oyutbe.com
+0.0.0.0 ww1.oyutbe.com
