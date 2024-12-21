@@ -100,5 +100,6 @@
 ||ww1.steampowerde.com^
 ||oyutbe.com^
 ||ww1.oyutbe.com^
+||steamcommunmutly.com^
+||vids.chatorizon.com^
 ||github.com/doczjs/docz/discussions/3118$document
-||steamcommunmutly.com

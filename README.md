@@ -1,4 +1,5 @@
-# development is starting to slow down, still working on it though
+<<<<<<< HEAD
+# development is starting to slow down, still being worked on though
 
 # scamsblocklist
 
@@ -38,6 +39,4 @@ Enter the name of the list (eg. AI blocklist) into the first dialogue box.
 Copy and paste the url into the second dialogue box.
 Hit save, and the list is added!
 
-oh yeah we're on gitlab now
-
-i want you guys to try and find it though i wanna see how it it takes
+also on gitlab

@@ -97,5 +97,9 @@
 0.0.0.0 ww1.steampowerde.com
 0.0.0.0 oyutbe.com
 0.0.0.0 ww1.oyutbe.com
-0.0.0.0 github.com/doczjs/docz/discussions/3118
+0.0.0.0 disccord.com
+0.0.0.0 discoord.com
+0.0.0.0 ww1.discoord.com
 0.0.0.0 steamcommunmutly.com
+0.0.0.0 vids.chatorizon.com
+0.0.0.0 github.com/doczjs/docz/discussions/3118
