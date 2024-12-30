@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # development is starting to slow down, still being worked on though
 
 # scamsblocklist
