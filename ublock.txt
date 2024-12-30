@@ -103,3 +103,4 @@
 ||steamcommunmutly.com^
 ||vids.chatorizon.com^
 ||github.com/doczjs/docz/discussions/3118$document
+||u.to/VY8YIQ
