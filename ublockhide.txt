@@ -106,4 +106,4 @@ google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="steamcommunmutly.c
 google.com,duckduckgo.com,bing.com,search.brave.com##a[href*="vids.chatorizon.com"]:upward(div):style(opacity:0.00!important;)
 # can't figure out how to do this so this is the best i can do
 ||github.com/doczjs/docz/discussions/3118$document
-# i've ended support for this, gitlab has an updated version however i don't know how to get that to work, i will take a pull request to fix this though
+# i've ended support for this, gitlab has an updated version however i don't know how to get that to work, i will take a pull request to fix stuff later on though
